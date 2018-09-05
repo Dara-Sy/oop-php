@@ -1,6 +1,6 @@
 <?php
-    include 'includedir/parentclass.inc.php';
-    include 'includedir/newclass.inc.php';
+    include 'parentclass.inc.php';
+    include 'newclass.inc.php';
     $object = new NewClass;
 ?>
 
